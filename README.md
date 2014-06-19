@@ -1,10 +1,9 @@
+Freeplane Feature Map
 ---------------------
-FREEPLANE FEATURE MAP
----------------------
 
 
 
-SCOPE
+Scope
 -----
 
 This feature map is intended to help users find their way through all the features of the world greatest mind mapping tool Freeplane. As many features have been developed and are currently under development, it becomes hard to keep all these features in mind and find specific answers to user relevant questions.
@@ -20,14 +19,14 @@ This feature map is intended to help users find their way through all the featur
 
 
 
-USAGE
+Usage
 -----
 
 This feature map is updated by many of Freeplane's developers. It is exported into a JAVA applet and mapped within Freeplane's corresponding user WIKI on the sourceforge platform. Users can view, browse, filter and search the map in order to find useful information and links to detailed sources.
 
 
 
-ENGINEERING
+Engineering
 -----------
 
 This feature map can be viewed and edited using the Freeplane mindmap editor, downloadable from the Freeplane project page on sourceforge. Any Freeplane developer is free and encouraged to contribute to this feature map in order to complete its information and adjust its structure where necessary. In order to keep this map as structured and as informative as possible, please
@@ -38,7 +37,8 @@ This feature map can be viewed and edited using the Freeplane mindmap editor, do
 - add attributes for links with forum discussion or documentation
 
 
-STYLE/COLOR SPECIFICATION (prefedined)
+Style/Color Specification (prefedined)
+--------------------------------------
 
   _comment_and_structure
     [plain and gray]
