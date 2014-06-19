@@ -1,4 +1,3 @@
----------------------
 FREEPLANE FEATURE MAP
 ---------------------
 
@@ -39,6 +38,7 @@ This feature map can be viewed and edited using the Freeplane mindmap editor, do
 
 
 STYLE/COLOR SPECIFICATION (prefedined)
+--------------------------------------
 
   _comment_and_structure
     [plain and gray]
