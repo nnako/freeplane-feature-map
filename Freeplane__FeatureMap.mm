@@ -18,7 +18,7 @@
 </html>
 </richcontent>
 <edge STYLE="bezier" COLOR="#808080" WIDTH="thin"/>
-<hook NAME="MapStyle" zoom="0.62">
+<hook NAME="MapStyle" zoom="0.682">
     <properties show_icon_for_attributes="true" show_note_icons="true"/>
 
 <map_styles>
@@ -169,19 +169,25 @@
 </node>
 <node TEXT="[ node handling ]" STYLE_REF="_comment_and_structure" POSITION="right" ID="ID_1669222166" CREATED="1394875416281" MODIFIED="1394904710093" MAX_WIDTH="120" MIN_WIDTH="120">
 <node TEXT="[ text content ]" STYLE_REF="_comment_and_structure" ID="ID_1953162016" CREATED="1393109578515" MODIFIED="1400608450656" MAX_WIDTH="110" MIN_WIDTH="110">
+<node TEXT="." STYLE_REF="_comment_and_structure" ID="ID_1070790055" CREATED="1394877490015" MODIFIED="1394877490703">
+<node TEXT="node content text (HTML or plain text)" STYLE_REF="_feature_operational" ID="ID_1625968811" CREATED="1393109592078" MODIFIED="1403288809171">
+<font BOLD="true"/>
+<node TEXT="can be scanned e.g. by filter" STYLE_REF="_comment_and_structure" ID="ID_1432049721" CREATED="1393109747203" MODIFIED="1394877743859"/>
+</node>
+</node>
 <node TEXT="." STYLE_REF="_comment_and_structure" ID="ID_152395310" CREATED="1394877490015" MODIFIED="1394877490703">
-<node TEXT="definition of attributes (key and value)" STYLE_REF="_feature_operational" ID="ID_435222263" CREATED="1393109592078" MODIFIED="1394885295265">
+<node TEXT="definition of attributes (key and value), metadata" STYLE_REF="_feature_operational" ID="ID_435222263" CREATED="1393109592078" MODIFIED="1403288726750">
 <font BOLD="true"/>
 <node TEXT="can be scanned e.g. by filter" STYLE_REF="_comment_and_structure" ID="ID_1151798030" CREATED="1393109747203" MODIFIED="1394877743859"/>
 </node>
 </node>
 <node TEXT="." STYLE_REF="_comment_and_structure" ID="ID_184433430" CREATED="1394877495015" MODIFIED="1394877495453">
-<node TEXT="edit of further node detail text" STYLE_REF="_feature_operational" ID="ID_323358596" CREATED="1369113185234" MODIFIED="1394885295265">
+<node TEXT="definition of further node detail text" STYLE_REF="_feature_operational" ID="ID_323358596" CREATED="1369113185234" MODIFIED="1403288745718">
 <font BOLD="true"/>
 </node>
 </node>
 <node TEXT="." STYLE_REF="_comment_and_structure" ID="ID_284870542" CREATED="1394877593015" MODIFIED="1394877593765">
-<node TEXT="edit of additional note text portions" STYLE_REF="_feature_operational" ID="ID_221614910" CREATED="1394877593765" MODIFIED="1394885295265">
+<node TEXT="definition of additional note text portions" STYLE_REF="_feature_operational" ID="ID_221614910" CREATED="1394877593765" MODIFIED="1403288763187">
 <font BOLD="true"/>
 </node>
 </node>
@@ -239,7 +245,16 @@
 <font BOLD="true"/>
 </node>
 </node>
-<node TEXT="." STYLE_REF="_comment_and_structure" ID="ID_531259887" CREATED="1394877792171" MODIFIED="1394879943343"/>
+<node TEXT="." STYLE_REF="_comment_and_structure" ID="ID_199337674" CREATED="1394877788218" MODIFIED="1394877789578">
+<node TEXT="styling with regard to hierarchical level in map" STYLE_REF="_feature_operational" ID="ID_589908134" CREATED="1369113185234" MODIFIED="1403288273109">
+<font BOLD="true"/>
+</node>
+</node>
+<node TEXT="." STYLE_REF="_comment_and_structure" ID="ID_531259887" CREATED="1394877792171" MODIFIED="1394879943343">
+<node TEXT="visual grouping of nodes using &quot;clouds&quot;" STYLE_REF="_feature_operational" ID="ID_99105779" CREATED="1369113185234" MODIFIED="1403288157968">
+<font BOLD="true"/>
+</node>
+</node>
 </node>
 <node TEXT="[ structure ]" STYLE_REF="_comment_and_structure" ID="ID_1545128228" CREATED="1393109300421" MODIFIED="1394911408156" MAX_WIDTH="110" MIN_WIDTH="110">
 <node TEXT="." STYLE_REF="_comment_and_structure" ID="ID_1700039447" CREATED="1394877792171" MODIFIED="1394879943343">
@@ -249,20 +264,22 @@
 </node>
 <node TEXT="." STYLE_REF="_comment_and_structure" ID="ID_1911809568" CREATED="1394911442906" MODIFIED="1394911443562"/>
 </node>
+<node TEXT="[ types ]" STYLE_REF="_comment_and_structure" ID="ID_541973771" CREATED="1369113489363" MODIFIED="1403287616468" MAX_WIDTH="110" MIN_WIDTH="110">
+<node TEXT="." STYLE_REF="_comment_and_structure" ID="ID_1064720949" CREATED="1394878232343" MODIFIED="1394878232781">
+<node TEXT="freely positionable nodes without visible ancestors" STYLE_REF="_feature_operational" ID="ID_1982076606" CREATED="1369113185234" MODIFIED="1396265172312">
+<font BOLD="true"/>
+</node>
+</node>
+<node TEXT="." STYLE_REF="_comment_and_structure" ID="ID_508330480" CREATED="1394878233750" MODIFIED="1394878234203">
+<node TEXT="summary nodes visually grouping other nodes" STYLE_REF="_feature_operational" ID="ID_416074246" CREATED="1369113185234" MODIFIED="1403288675765">
+<font BOLD="true"/>
+</node>
+</node>
+<node TEXT="." STYLE_REF="_comment_and_structure" ID="ID_676737938" CREATED="1394879924421" MODIFIED="1394879925203"/>
+</node>
 <node TEXT="[ positioning ]" STYLE_REF="_comment_and_structure" ID="ID_880568129" CREATED="1369113489363" MODIFIED="1396134574187" MAX_WIDTH="110" MIN_WIDTH="110">
-<node TEXT="." STYLE_REF="_comment_and_structure" ID="ID_303954816" CREATED="1394879717953" MODIFIED="1394879718718">
-<node TEXT="creation/move of nodes to any local branch node" STYLE_REF="_feature_operational" ID="ID_660223862" CREATED="1394879718718" MODIFIED="1396268187187">
-<font BOLD="true"/>
-<attribute_layout NAME_WIDTH="90" VALUE_WIDTH="261"/>
-</node>
-</node>
 <node TEXT="." STYLE_REF="_comment_and_structure" ID="ID_92513972" CREATED="1394878230609" MODIFIED="1394878231312">
-<node TEXT="automatic adjustment of node position (default)" STYLE_REF="_feature_operational" ID="ID_1910254778" CREATED="1393783080921" MODIFIED="1394879716343">
-<font BOLD="true"/>
-</node>
-</node>
-<node TEXT="." STYLE_REF="_comment_and_structure" ID="ID_101428081" CREATED="1394879798250" MODIFIED="1394879799984">
-<node TEXT="keyboard shortcuts for create/edit/move/cut/copy/paste of nodes" STYLE_REF="_feature_operational" ID="ID_1666722194" CREATED="1394879799984" MODIFIED="1402653073109">
+<node TEXT="automatic adjustment of relative node positions in map (default)" STYLE_REF="_feature_operational" ID="ID_1910254778" CREATED="1393783080921" MODIFIED="1403287867734">
 <font BOLD="true"/>
 </node>
 </node>
@@ -271,15 +288,14 @@
 <font BOLD="true"/>
 </node>
 </node>
-<node TEXT="." STYLE_REF="_comment_and_structure" ID="ID_664056767" CREATED="1394878232343" MODIFIED="1394878232781">
-<node TEXT="freely positionable nodes without visible ancestors" STYLE_REF="_feature_operational" ID="ID_449579336" CREATED="1369113185234" MODIFIED="1396265172312">
+<node TEXT="." STYLE_REF="_comment_and_structure" ID="ID_303954816" CREATED="1394879717953" MODIFIED="1394879718718">
+<node TEXT="creation/move of nodes to any local branch node using keyboard" STYLE_REF="_feature_operational" ID="ID_660223862" CREATED="1394879718718" MODIFIED="1403287841390">
 <font BOLD="true"/>
+<attribute_layout NAME_WIDTH="90" VALUE_WIDTH="261"/>
 </node>
 </node>
-<node TEXT="." STYLE_REF="_comment_and_structure" ID="ID_1452469234" CREATED="1394878233750" MODIFIED="1394878234203">
-<node TEXT="usage of summary nodes grouping nodes" STYLE_REF="_feature_operational" ID="ID_1773449586" CREATED="1369113185234" MODIFIED="1394879922953">
-<font BOLD="true"/>
-</node>
+<node TEXT="." STYLE_REF="_comment_and_structure" ID="ID_886113111" CREATED="1403287686171" MODIFIED="1403287968156">
+<node TEXT="drag and drop of nodes between arbitrary places in map using mouse" STYLE_REF="_feature_operational" ID="ID_1651728799" CREATED="1403287687578" MODIFIED="1403287888937"/>
 </node>
 <node TEXT="." STYLE_REF="_comment_and_structure" ID="ID_350598319" CREATED="1394879924421" MODIFIED="1394879925203"/>
 </node>
@@ -287,7 +303,7 @@
 <node TEXT="." STYLE_REF="_comment_and_structure" ID="ID_1046752122" CREATED="1394877046406" MODIFIED="1394879928578">
 <node TEXT="optical link from any node to any other local node" STYLE_REF="_feature_operational" ID="ID_1555798342" CREATED="1393108856093" MODIFIED="1394885210078">
 <font BOLD="true"/>
-<node TEXT="configurable connection line" STYLE_REF="_comment_and_structure" ID="ID_1429352544" CREATED="1393109099343" MODIFIED="1393109124390"/>
+<node TEXT="configurable connection line; with labels" STYLE_REF="_comment_and_structure" ID="ID_1429352544" CREATED="1393109099343" MODIFIED="1403288226890"/>
 </node>
 </node>
 <node TEXT="." STYLE_REF="_comment_and_structure" ID="ID_1417918884" CREATED="1394877044765" MODIFIED="1394879929500">
@@ -320,7 +336,7 @@
 <node TEXT="." STYLE_REF="_comment_and_structure" ID="ID_765708223" CREATED="1394911261609" MODIFIED="1394911262437">
 <node TEXT="http://freeplane.sourceforge.net/wiki/index.php/Freeplane_features_you_were_missing_in_FreeMind" ID="ID_228206484" CREATED="1394911262437" MODIFIED="1394911267343" LINK="http://freeplane.sourceforge.net/wiki/index.php/Freeplane_features_you_were_missing_in_FreeMind"/>
 </node>
-<node TEXT="." ID="ID_404030710" CREATED="1402667772363" MODIFIED="1402667775164">
+<node TEXT="." STYLE_REF="_comment_and_structure" ID="ID_404030710" CREATED="1402667772363" MODIFIED="1403287989906">
 <node TEXT="..." ID="ID_1463428903" CREATED="1402667775164" MODIFIED="1402667775897"/>
 </node>
 </node>
@@ -342,6 +358,38 @@
 <node TEXT="configurable keyboard shortcuts for menu items" STYLE_REF="_feature_operational" ID="ID_1662472571" CREATED="1369113185171" MODIFIED="1394878578187">
 <font BOLD="true"/>
 <node TEXT="function keys with combinations of &lt;SHIFT&gt;, &lt;CTRL&gt; and &lt;ALT&gt;" STYLE_REF="_comment_and_structure" ID="ID_1356793985" CREATED="1394878526156" MODIFIED="1394878553515"/>
+</node>
+</node>
+<node TEXT="." STYLE_REF="_comment_and_structure" ID="ID_101428081" CREATED="1394879798250" MODIFIED="1394879799984">
+<node TEXT="keyboard shortcuts for create/edit/move/cut/copy/paste of nodes" STYLE_REF="_feature_operational" ID="ID_1666722194" CREATED="1394879799984" MODIFIED="1402653073109">
+<font BOLD="true"/>
+</node>
+</node>
+<node TEXT="." STYLE_REF="_comment_and_structure" ID="ID_144746157" CREATED="1394879798250" MODIFIED="1394879799984">
+<node TEXT="different editor types (inline and dialog) for creation of text portions" STYLE_REF="_feature_operational" ID="ID_1052298474" CREATED="1394879799984" MODIFIED="1403288486171">
+<font BOLD="true"/>
+</node>
+</node>
+<node TEXT="." STYLE_REF="_comment_and_structure" ID="ID_1798726565" CREATED="1394879798250" MODIFIED="1394879799984">
+<node TEXT="HTML editor for input of node content, notes, details,..." STYLE_REF="_feature_operational" ID="ID_997361548" CREATED="1394879799984" MODIFIED="1403288465531">
+<font BOLD="true"/>
+</node>
+</node>
+<node TEXT="." STYLE_REF="_comment_and_structure" ID="ID_554352059" CREATED="1394879798250" MODIFIED="1394879799984">
+<node TEXT="context menus providing most probable actions" STYLE_REF="_feature_operational" ID="ID_902131385" CREATED="1394879799984" MODIFIED="1403288586125">
+<font BOLD="true"/>
+</node>
+</node>
+</node>
+<node TEXT="[ language ]" STYLE_REF="_comment_and_structure" ID="ID_755749889" CREATED="1394879447640" MODIFIED="1403288515515" MAX_WIDTH="110" MIN_WIDTH="110">
+<node TEXT="." STYLE_REF="_comment_and_structure" ID="ID_662917650" CREATED="1394879798250" MODIFIED="1394879799984">
+<node TEXT="multi-language support for menu and system texts" STYLE_REF="_feature_operational" ID="ID_747008268" CREATED="1394879799984" MODIFIED="1403288533718">
+<font BOLD="true"/>
+</node>
+</node>
+<node TEXT="." STYLE_REF="_comment_and_structure" ID="ID_1952698107" CREATED="1394879798250" MODIFIED="1394879799984">
+<node TEXT="..." STYLE_REF="_feature_operational" ID="ID_1924948048" CREATED="1394879799984" MODIFIED="1403288537359">
+<font BOLD="true"/>
 </node>
 </node>
 </node>
@@ -424,12 +472,25 @@
 </node>
 </node>
 </node>
-<node TEXT="[ map linking ]" STYLE_REF="_comment_and_structure" ID="ID_1167957239" CREATED="1396451135156" MODIFIED="1397835792421" MAX_WIDTH="100" MIN_WIDTH="100">
-<node TEXT="." STYLE_REF="_comment_and_structure" ID="ID_379028167" CREATED="1396451146171" MODIFIED="1396451148109">
-<node TEXT="Inline linked maps into one single map" STYLE_REF="_feature_operational" ID="ID_1717859384" CREATED="1396451148109" MODIFIED="1402654973609">
-<attribute_layout NAME_WIDTH="189" VALUE_WIDTH="74"/>
-<attribute NAME="source" VALUE="http://freeplane.sourceforge.net/wiki/index.php/Scripting_text_editing" OBJECT="java.net.URI|http://freeplane.sourceforge.net/wiki/index.php/Scripting_text_editing"/>
-<attribute NAME="discussion" VALUE="http://sourceforge.net/p/freeplane/discussion/758437/thread/5c592ee0" OBJECT="java.net.URI|http://sourceforge.net/p/freeplane/discussion/758437/thread/5c592ee0"/>
+<node TEXT="[ node sorting ]" STYLE_REF="_comment_and_structure" ID="ID_559616925" CREATED="1396450987796" MODIFIED="1402820411437" MAX_WIDTH="100" MIN_WIDTH="100">
+<node TEXT="." STYLE_REF="_comment_and_structure" ID="ID_1412910248" CREATED="1396451007812" MODIFIED="1396451009421">
+<node TEXT="sort child nodes by length, dates, ..." STYLE_REF="_feature_operational" ID="ID_628384049" CREATED="1396451009421" MODIFIED="1402820851484">
+<attribute_layout NAME_WIDTH="182" VALUE_WIDTH="332"/>
+<attribute NAME="source" VALUE="http://freeplane.sourceforge.net/wiki/index.php/Scripts_collection#Sort_child_nodes_alphabetically.2C_by_length_or_by_other_properties" OBJECT="java.net.URI|http://freeplane.sourceforge.net/wiki/index.php/Scripts_collection#Sort_child_nodes_alphabetically.2C_by_length_or_by_other_properties"/>
+<font BOLD="true"/>
+</node>
+</node>
+<node TEXT="." STYLE_REF="_comment_and_structure" ID="ID_734131791" CREATED="1396451007812" MODIFIED="1396451009421">
+<node TEXT="sort attributes by name" STYLE_REF="_feature_operational" ID="ID_653001601" CREATED="1396451009421" MODIFIED="1402820932046">
+<attribute_layout NAME_WIDTH="183" VALUE_WIDTH="70"/>
+<attribute NAME="source" VALUE="http://freeplane.sourceforge.net/wiki/index.php/Scripts_collection#Sort_attributes_by_name" OBJECT="java.net.URI|http://freeplane.sourceforge.net/wiki/index.php/Scripts_collection#Sort_attributes_by_name"/>
+<font BOLD="true"/>
+</node>
+</node>
+<node TEXT="." STYLE_REF="_comment_and_structure" ID="ID_1188092566" CREATED="1396451007812" MODIFIED="1396451009421">
+<node TEXT="sort attributes by value" STYLE_REF="_feature_operational" ID="ID_560574868" CREATED="1396451009421" MODIFIED="1402820927281">
+<attribute_layout NAME_WIDTH="183" VALUE_WIDTH="70"/>
+<attribute NAME="source" VALUE="http://freeplane.sourceforge.net/wiki/index.php/Scripts_collection#Sort_attributes_by_value" OBJECT="java.net.URI|http://freeplane.sourceforge.net/wiki/index.php/Scripts_collection#Sort_attributes_by_value"/>
 <font BOLD="true"/>
 </node>
 </node>
@@ -439,6 +500,16 @@
 <node TEXT="Insert an inline image into node text or details" STYLE_REF="_feature_operational" ID="ID_78052965" CREATED="1396451009421" MODIFIED="1402654973609">
 <attribute_layout NAME_WIDTH="228" VALUE_WIDTH="74"/>
 <attribute NAME="source" VALUE="http://freeplane.sourceforge.net/wiki/index.php/Scripting_text_editing" OBJECT="java.net.URI|http://freeplane.sourceforge.net/wiki/index.php/Scripting_text_editing"/>
+<font BOLD="true"/>
+</node>
+</node>
+</node>
+<node TEXT="[ map linking ]" STYLE_REF="_comment_and_structure" ID="ID_1167957239" CREATED="1396451135156" MODIFIED="1397835792421" MAX_WIDTH="100" MIN_WIDTH="100">
+<node TEXT="." STYLE_REF="_comment_and_structure" ID="ID_379028167" CREATED="1396451146171" MODIFIED="1396451148109">
+<node TEXT="Inline linked maps into one single map" STYLE_REF="_feature_operational" ID="ID_1717859384" CREATED="1396451148109" MODIFIED="1402654973609">
+<attribute_layout NAME_WIDTH="189" VALUE_WIDTH="74"/>
+<attribute NAME="source" VALUE="http://freeplane.sourceforge.net/wiki/index.php/Scripting_text_editing" OBJECT="java.net.URI|http://freeplane.sourceforge.net/wiki/index.php/Scripting_text_editing"/>
+<attribute NAME="discussion" VALUE="http://sourceforge.net/p/freeplane/discussion/758437/thread/5c592ee0" OBJECT="java.net.URI|http://sourceforge.net/p/freeplane/discussion/758437/thread/5c592ee0"/>
 <font BOLD="true"/>
 </node>
 </node>
