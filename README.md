@@ -40,22 +40,10 @@ This feature map can be viewed and edited using the Freeplane mindmap editor, do
 Style/Color Specification (prefedined)
 --------------------------------------
 
-  _comment_and_structure
-    [plain and gray]
-    display of comments and structure
-
-  _feature_concept
-    [bold and black]
-    interesting feature concept but currently no activity
-
-  _feature_to_be_optimized
-    [bold and red]
-    feature is currently buggy in latest stable program version
-
-  _feature_in_development
-    [bold and yellow]
-    feature is in negotiation / in development for future program version
-
-  _feature_operational
-    [bold and green]
-    feature is developed and operational in latest stable program version
+| style name              | visual text appearance  | purpose or scope                                                      |
+| :---------------------- | :---------------------- | :-------------------------------------------------------------------- |
+| _comment_and_structure  | plain and gray          | contents regarding comments or structure                              |
+| _feature_concept        | bold and black          | interesting feature concept but currently no activity                 |
+| _feature_to_be_optimized| bold and red            | feature is currently buggy in latest stable program version           |
+| _feature_in_development | bold and yellow         | feature is in negotiation / in development for future program version |
+| _feature_operational    | bold and green          | feature is developed and operational in latest stable program version |
