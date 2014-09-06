@@ -36,8 +36,13 @@ This feature map can be viewed and edited using the Freeplane mindmap editor, do
 ![choose categories](http://www11.pic-upload.de/06.09.14/78mk1a5nv5e1.gif)
 
 2. use the appropriate style for your feature development status classification
+![use styles](http://www11.pic-upload.de/06.09.14/1i7k7tkcu63e.gif)
+
 3. add attributes for links with forum discussion, documentation, ...
+![add attributes](http://www11.pic-upload.de/06.09.14/7hmq8lmx1r82.gif)
+
 4. hyperlink feature with other places in this map, when appropriate
+![use hyperlinks](http://www11.pic-upload.de/06.09.14/xj7lrqdbg37.gif)
 
 
 
