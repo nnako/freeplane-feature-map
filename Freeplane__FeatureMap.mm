@@ -18,7 +18,7 @@
 </html>
 </richcontent>
 <edge STYLE="bezier" COLOR="#808080" WIDTH="thin"/>
-<hook NAME="MapStyle" zoom="0.682">
+<hook NAME="MapStyle" zoom="0.564">
     <properties show_icon_for_attributes="true" show_note_icons="true"/>
 
 <map_styles>
@@ -134,14 +134,14 @@
 </node>
 </node>
 <node TEXT="." STYLE_REF="_comment_and_structure" ID="ID_493969492" CREATED="1394904844218" MODIFIED="1394904845000">
-<node TEXT="presentation slide generation using mindslide" STYLE_REF="_feature_concept" ID="ID_484712804" CREATED="1394904845000" MODIFIED="1402667720767">
+<node TEXT="presentation slide generation using mindslide" STYLE_REF="_feature_concept" ID="ID_484712804" CREATED="1394904845000" MODIFIED="1409987402670">
 <attribute NAME="current version" VALUE="[ version number ]"/>
 <attribute NAME="user manual" VALUE="[ here might be a link into the WIKI ]"/>
 <attribute NAME="development" VALUE="[ here would be a link into the developer forum ]"/>
 <attribute NAME="discussion" VALUE="http://sourceforge.net/apps/phpbb/freeplane/viewtopic.php?f=1&amp;t=750&amp;p=3712&amp;hilit=mindslide#p3708" OBJECT="java.net.URI|http://sourceforge.net/apps/phpbb/freeplane/viewtopic.php?f=1&amp;t=750&amp;p=3712&amp;hilit=mindslide#p3708"/>
 <attribute NAME="discussion" VALUE="http://sourceforge.net/apps/phpbb/freeplane/viewtopic.php?f=1&amp;t=740&amp;start=0&amp;hilit=mindslide" OBJECT="java.net.URI|http://sourceforge.net/apps/phpbb/freeplane/viewtopic.php?f=1&amp;t=740&amp;start=0&amp;hilit=mindslide"/>
 <attribute NAME="discussion" VALUE="http://sourceforge.net/apps/phpbb/freeplane/viewtopic.php?f=1&amp;t=758&amp;start=0&amp;hilit=mindslide" OBJECT="java.net.URI|http://sourceforge.net/apps/phpbb/freeplane/viewtopic.php?f=1&amp;t=758&amp;start=0&amp;hilit=mindslide"/>
-<attribute NAME="developed by" VALUE="n.n."/>
+<attribute NAME="developed by" VALUE="[ here, the core developer might put his name ]"/>
 </node>
 </node>
 <node TEXT="." STYLE_REF="_comment_and_structure" ID="ID_1310845194" CREATED="1394904873343" MODIFIED="1394904874187"/>
@@ -618,13 +618,22 @@
 </node>
 </node>
 <node TEXT="." STYLE_REF="_comment_and_structure" ID="ID_140866477" CREATED="1394911711562" MODIFIED="1394911713234">
-<node TEXT="collaboration on maps" STYLE_REF="_feature_operational" ID="ID_1763069573" CREATED="1394878021046" MODIFIED="1402654973609">
+<node TEXT="collaboration on maps" STYLE_REF="_feature_operational" ID="ID_1763069573" CREATED="1394878021046" MODIFIED="1420373664603">
 <font BOLD="true"/>
 <attribute_layout NAME_WIDTH="154" VALUE_WIDTH="74"/>
 <attribute NAME="discussion" VALUE="https://sourceforge.net/apps/phpbb/freeplane/viewtopic.php?f=1&amp;t=718&amp;hilit=collaboration" OBJECT="java.net.URI|https://sourceforge.net/apps/phpbb/freeplane/viewtopic.php?f=1&amp;t=718&amp;hilit=collaboration"/>
 <attribute NAME="user manual" VALUE="http://freeplanecollab.sourceforge.net/" OBJECT="java.net.URI|http://freeplanecollab.sourceforge.net/"/>
 <attribute NAME="source" VALUE="https://github.com/seb4stien/freeplane-collaborative-addon" OBJECT="java.net.URI|https://github.com/seb4stien/freeplane-collaborative-addon"/>
+<attribute NAME="usage video" VALUE="https://www.youtube.com/watch?v=HIGS78lgeUk" OBJECT="java.net.URI|https://www.youtube.com/watch?v=HIGS78lgeUk"/>
 <node TEXT="using versioning system (CVS, SVN, GIT)" STYLE_REF="_comment_and_structure" ID="ID_1858657432" CREATED="1394916487734" MODIFIED="1394916518968"/>
+</node>
+</node>
+</node>
+<node TEXT="[ presentation ]" STYLE_REF="_comment_and_structure" ID="ID_1504532332" CREATED="1394893043703" MODIFIED="1407485105062" MAX_WIDTH="100" MIN_WIDTH="100">
+<node TEXT="." STYLE_REF="_comment_and_structure" ID="ID_700800242" CREATED="1394892849625" MODIFIED="1394892850218">
+<node TEXT="RoAn-Presentation" STYLE_REF="_feature_operational" ID="ID_1952178241" CREATED="1394892724984" MODIFIED="1407485279609">
+<font BOLD="true"/>
+<node TEXT="..." STYLE_REF="_comment_and_structure" ID="ID_1070011651" CREATED="1394892724984" MODIFIED="1407485096656"/>
 </node>
 </node>
 </node>
