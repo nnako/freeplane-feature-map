@@ -256,6 +256,15 @@
 </node>
 </node>
 </node>
+<node TEXT="[ attributes ]" STYLE_REF="_comment_and_structure" ID="ID_1391435255" CREATED="1393109300421" MODIFIED="1427462017078" MAX_WIDTH="110" MIN_WIDTH="110">
+<node TEXT="." STYLE_REF="_comment_and_structure" ID="ID_450734707" CREATED="1394877792171" MODIFIED="1394879943343">
+<node TEXT="usage of attribute settings for each node" STYLE_REF="_feature_operational" ID="ID_1051843912" CREATED="1369113185234" MODIFIED="1427462122937">
+<font BOLD="true"/>
+<attribute_layout NAME_WIDTH="187" VALUE_WIDTH="74"/>
+<attribute NAME="video" VALUE="https://www.youtube.com/watch?v=qym9pG3AP4E&amp;list=UU0G5Ad0Cn0_rHfcOz_zsZOg" OBJECT="java.net.URI|https://www.youtube.com/watch?v=qym9pG3AP4E&amp;list=UU0G5Ad0Cn0_rHfcOz_zsZOg"/>
+</node>
+</node>
+</node>
 <node TEXT="[ structure ]" STYLE_REF="_comment_and_structure" ID="ID_1545128228" CREATED="1393109300421" MODIFIED="1394911408156" MAX_WIDTH="110" MIN_WIDTH="110">
 <node TEXT="." STYLE_REF="_comment_and_structure" ID="ID_1700039447" CREATED="1394877792171" MODIFIED="1394879943343">
 <node TEXT="cloning of branches..." STYLE_REF="_feature_concept" ID="ID_294480215" CREATED="1394911413781" MODIFIED="1402667720720">
